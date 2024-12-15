@@ -1,4 +1,4 @@
-# 🧠 **ContentPulse** | Mood Analyzer Project  
+# 🧠 **ContentPulse** | Insights into Tone, Emotion, and Complexity.  
 ### **NLP, Web Scraping, Python**
 
 ---
